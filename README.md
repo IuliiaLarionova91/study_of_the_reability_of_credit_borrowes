@@ -1,0 +1,2 @@
+# study_of_the_reability_of_credit_borrowes
+Borrower reliability research
