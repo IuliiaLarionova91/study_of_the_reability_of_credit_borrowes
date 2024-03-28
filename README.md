@@ -1,2 +1,2 @@
 # study_of_the_reability_of_credit_borrowes
-Borrower reliability research
+Study of borrower reliability. Drawing up a picture of a good and bad borrower for the bank.
